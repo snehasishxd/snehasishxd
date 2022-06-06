@@ -4,4 +4,4 @@
 
 <a href="https://github.com/snehasishxd"><img src="https://github-readme-stats.vercel.app/api?username=snehasishxd&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/></a>
 
-<a href="https://github.com/snehasishxd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasishxd&langs_count=5&theme=radical&layout=compact"/></a>
+<a href="https://github.com/snehasishxd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasishxd&langs_count=5&theme=radical&layout=compact&hide_border=true"/></a>
